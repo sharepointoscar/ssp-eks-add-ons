@@ -1,4 +1,4 @@
 config:
   serverPort: 80
   clients:
-    - url: http://loki-gateway/loki/api/v1/push
+    - url: http://loki-loki-distributed-gateway/loki/api/v1/push
